@@ -1,3 +1,10 @@
+/************************************
+*Project:Demo for Comments
+*Programmer: Darwin Castillo
+*Date: June,2025
+*Program Name: Comments.java
+************************************/
+
 import java.io.*;
 public class Comments
 {
